@@ -2,6 +2,7 @@ node_modules/
 volar-services/
 volar-volar.js/
 vue-atom/
+vue-coc/
 vue-lapce/
 vue-monaco/
 vue-sublime/
