@@ -1,0 +1,15 @@
+{
+  "name": "github-avatars",
+  "version": "1.0.0",
+  "description": "A script to retrieve GitHub avatars of all contributors in the current repository.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "axios": "latest",
+    "sharp": "latest"
+  },
+  "author": "",
+  "license": "ISC"
+}
